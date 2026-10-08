@@ -1,6 +1,6 @@
 <h1><img src="https://slackmojis.com/emojis/3643-cool-doge/image/1679863315/cool-doge.gif" width="30"/> Hey, Coders!</h1>
 
-* 🎓 Pursuing a Master's degree in Electronic and Information Engineering at [UCAS](https://www.ucas.ac.cn) & [CASIA](https://ia.cas.cn).
+* 🎓 Ph.D. Candidate in Computer Science at [UCAS](https://www.ucas.ac.cn) & [CASIA](https://ia.cas.cn).
 * 🔬 Conducting research the fields of Natural Language Processing and High-Performance Computing[Inference].
 * 🛠️ Passionate about Python ecosystem (PyTorch, vLLM, LangChain, etc.) and actively exploring performance optimization for frameworks implemented in C++/Rust.
 * 💬 For technical blog discussions and updates, you're welcome to follow my WeChat Official Account: `夏小悠`.
